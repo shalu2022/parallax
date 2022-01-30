@@ -1,0 +1,141 @@
+
+.section1{
+    height: 600px;
+    background-color: rgb(44, 40, 40);
+    margin-bottom: 0;
+ 
+   
+}
+.section1 div{
+    text-align: center;
+    color: whitesmoke;
+
+    position: relative;
+    display: block;
+    bottom: 170px;
+}
+.section1 img{
+    height: 500px;
+    width: 600px;
+    transform: rotate(300deg);
+ 
+    margin: 0px auto;
+    display: block;
+
+    
+}
+.arrow{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    bottom: 170px;
+    left: 700px;
+    border-radius: 60px;
+    display: block;
+}
+.arrow:hover{
+    opacity: 35%;
+}
+.backimg1{
+
+background-image: url("../CSS/images/pic\ 5.jpg");  
+opacity: 0.8;
+}
+.backimg2{
+
+    background-image: url("../CSS/images/pic\ 3.jpg");  
+ 
+    }
+.backimg3{
+
+        background-image: url("../CSS/images/pic4.jpg");  
+        opacity: 0.8;
+        }
+.whoiam{
+    text-align: center;
+    font-size: 19px;
+    padding: 30px 20px 100px; 
+    margin-top: 0;
+    background-color: rgb(219, 213, 219);
+    height: 100px;
+ 
+   
+  
+}
+.whoiam h1 {
+    padding: 10px;
+}
+.common{
+    
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+       
+
+}
+.dialog{
+    width: 410px;
+    height: 300px;
+    display: block;
+    position: absolute;
+    top: 150%;
+    left: 36%;
+    opacity: 0.6;
+ 
+    
+}
+.dialog1{
+    width: 410px;
+    height: 300px;
+    display: block;
+    position: absolute;
+    top: 336%;
+    left: 36%;
+    opacity: 0.6;
+    
+}
+
+.text{
+   
+    position: relative;
+    bottom: 450px;
+    color: rgb(15, 14, 14);
+    text-align: center;
+    font-size: 18px;
+}
+.text1{
+   
+    position: relative;
+    bottom: 390px;
+    color: rgb(15, 14, 14);
+    text-align: center;
+    font-size: 18px;
+}
+meter{
+    width: 100%;
+    height: 100px;
+
+}
+.meter{
+    padding: 70px 30px 90px;
+    width: 50%;
+    margin: auto;
+   
+    
+}
+.skills{
+    color: whitesmoke;     
+    background-color: rgb(44, 40, 40);
+}
+.meter h1{
+    text-align: center;
+}
+ *{
+    margin:0;
+    padding:0;
+    font-family: cursive;
+    
+}
+
